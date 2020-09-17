@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Shirt",
+        "description": "Denim shirt",
+        "price": "120",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/12.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Sport wear",
+        "description": "Sweatshirt",
+        "price": "139",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/13.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sport wear",
+        "description": "Grey blouse",
+        "price": "99",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/14.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Outwear",
+        "description": "Black jacket",
+        "price": "219",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/15.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sport wear",
+        "description": "Grey blouse",
+        "price": "99",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/14.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Shirt",
+        "description": "Denim shirt",
+        "price": "120",
+        "imageUrl": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/12.jpg"
+    }
+]
